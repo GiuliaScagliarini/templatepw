@@ -50,7 +50,7 @@ Can have a dark theme?
         grid.cell("f", 1, 3, 3, 4).text(
             "The cell to the right is a matplotlib svg image"
         )
-        grid.cell("g", 3, 4, 3, 4).pyplot(get_matplotlib_plt())
+        #grid.cell("g", 3, 4, 3, 4).pyplot(get_matplotlib_plt())
 
     st.plotly_chart(get_plotly_subplots())
 
