@@ -1,6 +1,6 @@
 import streamlit as st
 from pag1 import main as  pag1
-from pag2 import main as  pag2
+from pag_burger import main as  pag2
 from pag3 import main as  pag3
 from pag4 import main as  pag4
 from pag5 import main as  pag5
